@@ -101,3 +101,71 @@ In my last post I promised to show a few patterns demonstrating how a new Manage
 ### Part 22: [Thinking about a new MPF](http://dotneteers.net/blogs/divedeeper/archive/2008/06/14/LearnVSXNowPart22.aspx)
 
 I suppose, not I am the only one who can imagine a VS SDK and MPF that can be used better than the one we have today. In this post I share my thoughts about this topic. Please, share your imaginations, comments, additions and opinion with me!
+
+## Introducing LVN! Sidebars
+
+When writing LearnVSXNow articles and working on projects I have collected many “how-to-dos”, created small but useful code artifacts, found irritating bugs, etc. I decided to create a separate thread within the LearnVSXNow series not tied to the main stream just for publishing these small “knowledge elements”. I named this thread LVN! Sidebar. You can read the first blog posts:
+
+### LVN! Sidebar #4: [Command handlers](http://dotneteers.net/blogs/divedeeper/archive/2008/04/06/LVNSidebar4.aspx)
+
+### LVN! Sidebar #3: [Simplifying tool window declaration](http://dotneteers.net/blogs/divedeeper/archive/2008/03/26/LVNSidebar3.aspx)
+
+### LVN! Sidebar #2: [Resolving string resources](http://dotneteers.net/blogs/divedeeper/archive/2008/03/24/LVNSidebar2.aspx)
+
+### LVN! Sidebar #1: [Automatically loading packages](http://dotneteers.net/blogs/divedeeper/archive/2008/03/23/LVNSideBar1.aspx)
+
+## Mainstream posts
+
+### Part 21: [PowerCommands Deep Dive — Analyzing Commands](http://dotneteers.net/blogs/divedeeper/archive/2008/05/20/LearnVSXNowPart21.aspx)
+
+I go deep into the code of the following commands: Clear All Panes, Clear Recent Project and File List, Close All, Undo Close.
+
+### Part 20: [PowerCommands Deep Dive — Commands and UI](http://dotneteers.net/blogs/divedeeper/archive/2008/04/20/LearnVSXNowPart20.aspx)
+
+In this part I dive into details about PowerCommands UI. We look how option pages are created, integrated into the Options dialog and how related settings are persisted. We also examine the Model-View-Presenter pattern used to implement a few UI with WPF.
+
+### Part 19: [PowerCommands Deep Dive — Command Architecture](http://dotneteers.net/blogs/divedeeper/archive/2008/04/17/LearnVSXNowPart19.aspx)
+
+In this post we take a look at the architecture of the free PowerCommands tool package and go into details on how commands are defined and executed.
+
+### Part 18: [Advanced VSCT concepts](http://dotneteers.net/blogs/divedeeper/archive/2008/04/17/LearnVSXNowPart18.aspx)
+
+In this post I treat a few advanced .vsct concept like, submenus, toolbars, menu controllers, key bindings and visibility contexts.
+
+### Part 17: [Creating a simple custom editor — under pressure](http://dotneteers.net/blogs/divedeeper/archive/2008/03/17/LearnVSXNowPart17.aspx)
+
+In the previous articles we treated all components of a custom editor exceptthe editor pane. In this article we look whats behind the SimpleEditorPane<,> class.
+
+### Part 16: Creating a simple custom editor — the first ten meter](http://dotneteers.net/blogs/divedeeper/archive/2008/03/14/LearnVSXNowPart16.aspx)
+
+We look into the details of the main components of the sample: the editor factory, the UI, the data and the surface of the EditorPane code.
+
+### Part 15: [Creating a simple custom editor — the basics](http://dotneteers.net/blogs/divedeeper/archive/2008/03/12/LearnVSXNowPart15.aspx)
+
+### Part 14: [Basics of the .vsct file](http://dotneteers.net/blogs/divedeeper/archive/2008/03/02/LearnVSXNowPart14.aspx)
+
+### Part 13: [Menus and comands in VS IDE](http://dotneteers.net/blogs/divedeeper/archive/2008/02/22/LearnVSXNowPart13.aspx)
+
+### Part 12: [Stepping forward: “VsxLibrary” and “HowToPackage”](http://dotneteers.net/blogs/divedeeper/archive/2008/02/12/LearnVSXNowPart12.aspx)
+
+### Part 11: [Testing a package](http://dotneteers.net/blogs/divedeeper/archive/2008/02/07/LearnVSXNowPart11.aspx)
+
+### Part 10: [Creating our first toolset — Reusing code](http://dotneteers.net/blogs/divedeeper/archive/2008/02/04/LearnVSXNowPart10.aspx)
+
+### Part 9: [Creating our first toolset — Refactoring to a service](http://dotneteers.net/blogs/divedeeper/archive/2008/01/31/LearnVSXNow9.aspx)
+
+### Part 8: [Intermezzo — The regpkg.exe utility](http://dotneteers.net/blogs/divedeeper/archive/2008/01/22/LearnVSXNowPart8.aspx)
+
+### Part 7: [Creating our first toolset — Finishing the sample](http://dotneteers.net/blogs/divedeeper/archive/2008/01/18/LearnVSXNowPart7.aspx)
+
+### Part 6: [Creating our first toolset — Prolog](http://dotneteers.net/blogs/divedeeper/archive/2008/01/14/LearnVSXNowPart6.aspx)
+
+### Part 5: [Basic VSX ideas](http://dotneteers.net/blogs/divedeeper/archive/2008/01/11/LearnVSXNowPart5.aspx)
+
+### Part 4: [Creating a package with a tool window](http://dotneteers.net/blogs/divedeeper/archive/2008/01/08/LearnVSXNowPart4.aspx)
+
+### Part 3: [Creating a package with a simple command](http://dotneteers.net/blogs/divedeeper/archive/2008/01/06/LearnVSXNowPart3.aspx)
+
+### Part 2: [Creating an empty package](http://dotneteers.net/blogs/divedeeper/archive/2008/01/03/LernVSXNowPart2.aspx)
+
+### Part 1: [How to start VSX programming?](http://dotneteers.net/blogs/divedeeper/archive/2008/01/02/LearnVSXNowPart1.aspx)
