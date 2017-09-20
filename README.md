@@ -136,7 +136,7 @@ In this post I treat a few advanced .vsct concept like, submenus, toolbars, menu
 
 In the previous articles we treated all components of a custom editor exceptthe editor pane. In this article we look whats behind the SimpleEditorPane<,> class.
 
-### Part 16: Creating a simple custom editor — the first ten meter](http://dotneteers.net/blogs/divedeeper/archive/2008/03/14/LearnVSXNowPart16.aspx)
+### Part 16: [Creating a simple custom editor — the first ten meter](http://dotneteers.net/blogs/divedeeper/archive/2008/03/14/LearnVSXNowPart16.aspx)
 
 We look into the details of the main components of the sample: the editor factory, the UI, the data and the surface of the EditorPane code.
 
